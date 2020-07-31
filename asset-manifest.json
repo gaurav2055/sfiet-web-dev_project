@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.06fbb0ee.chunk.css",
-    "main.js": "/static/js/main.752f5708.chunk.js",
-    "main.js.map": "/static/js/main.752f5708.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4414d77b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4414d77b.js.map",
-    "static/css/2.c7296f5a.chunk.css": "/static/css/2.c7296f5a.chunk.css",
-    "static/js/2.53832ce1.chunk.js": "/static/js/2.53832ce1.chunk.js",
-    "static/js/2.53832ce1.chunk.js.map": "/static/js/2.53832ce1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.00b7b10230a46810cece8fc1cd3fdc36.js": "/precache-manifest.00b7b10230a46810cece8fc1cd3fdc36.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.c7296f5a.chunk.css.map": "/static/css/2.c7296f5a.chunk.css.map",
-    "static/css/main.06fbb0ee.chunk.css.map": "/static/css/main.06fbb0ee.chunk.css.map",
-    "static/js/2.53832ce1.chunk.js.LICENSE.txt": "/static/js/2.53832ce1.chunk.js.LICENSE.txt"
+    "main.css": "/sfit-web-dev_project/static/css/main.06fbb0ee.chunk.css",
+    "main.js": "/sfit-web-dev_project/static/js/main.b61e8523.chunk.js",
+    "main.js.map": "/sfit-web-dev_project/static/js/main.b61e8523.chunk.js.map",
+    "runtime-main.js": "/sfit-web-dev_project/static/js/runtime-main.5796f59c.js",
+    "runtime-main.js.map": "/sfit-web-dev_project/static/js/runtime-main.5796f59c.js.map",
+    "static/css/2.c7296f5a.chunk.css": "/sfit-web-dev_project/static/css/2.c7296f5a.chunk.css",
+    "static/js/2.13183be5.chunk.js": "/sfit-web-dev_project/static/js/2.13183be5.chunk.js",
+    "static/js/2.13183be5.chunk.js.map": "/sfit-web-dev_project/static/js/2.13183be5.chunk.js.map",
+    "index.html": "/sfit-web-dev_project/index.html",
+    "precache-manifest.b143b0bd5cbc19da13297664e48b7ac2.js": "/sfit-web-dev_project/precache-manifest.b143b0bd5cbc19da13297664e48b7ac2.js",
+    "service-worker.js": "/sfit-web-dev_project/service-worker.js",
+    "static/css/2.c7296f5a.chunk.css.map": "/sfit-web-dev_project/static/css/2.c7296f5a.chunk.css.map",
+    "static/css/main.06fbb0ee.chunk.css.map": "/sfit-web-dev_project/static/css/main.06fbb0ee.chunk.css.map",
+    "static/js/2.13183be5.chunk.js.LICENSE.txt": "/sfit-web-dev_project/static/js/2.13183be5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4414d77b.js",
+    "static/js/runtime-main.5796f59c.js",
     "static/css/2.c7296f5a.chunk.css",
-    "static/js/2.53832ce1.chunk.js",
+    "static/js/2.13183be5.chunk.js",
     "static/css/main.06fbb0ee.chunk.css",
-    "static/js/main.752f5708.chunk.js"
+    "static/js/main.b61e8523.chunk.js"
   ]
 }
